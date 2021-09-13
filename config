@@ -10,5 +10,6 @@
 	name = Ikechukwu.Ebele
 	email = Ikechukwu.Ebele@ISW-GSDEFT-IE.Interswitchng.com
 [remote "origin"]
+	url = https://iykeby@github.com/iykeby/Arrary-of-string/
 	url = https://iykeby@github.com/iykeby/Arrary-of-string.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
