@@ -19,7 +19,7 @@ public class JavaApplication1 {
     public static void main(String[] args) {
        // System.out.println("test");
         // TODO code application logic here
-        String name[] =  {"Tobenna","ik","Ebuka","Yemi","Ebele","ADA"};
+        String name[] =  {"Tobenna","ik","Ebuka","Yemi","Ebele","ADA","OBI"};
         //int x=0;
 //        for(int i =0; i<name.length; i++){
 //            for (x=0; x < name.length;x++){
