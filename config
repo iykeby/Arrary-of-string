@@ -1,0 +1,14 @@
+[pack]
+	buildbitmaps = false
+[core]
+	symlinks = false
+	repositoryformatversion = 0
+	filemode = false
+	logallrefupdates = true
+	bare = false
+[user]
+	name = Ikechukwu.Ebele
+	email = Ikechukwu.Ebele@ISW-GSDEFT-IE.Interswitchng.com
+[remote "origin"]
+	url = https://iykeby@github.com/iykeby/Arrary-of-string.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
